@@ -1,25 +1,15 @@
-# dbt Core Learning Project
+Welcome to your new dbt project!
 
-This project is a personal learning sandbox using **dbt Core** with a **PostgreSQL** database.
+### Using the starter project
 
-### 🔧 Stack
-- dbt Core
-- Postgres (local)
-- Python virtual environment
-- SQL + Jinja transformations
+Try running the following commands:
+- dbt run
+- dbt test
 
-### ✅ Goals
-- Learn dbt models, sources, tests, macros, and documentation
-- Practice working with a real warehouse setup
-- Build a GitHub-ready analytics portfolio project
 
----
-
-### 🚀 Setup Instructions (for future contributors or employers)
-
-```bash
-git clone https://github.com/your-username/dbt-core-learning.git
-cd dbt-core-learning
-python3 -m venv dbt-env
-source dbt-env/bin/activate
-pip install dbt-postgres
+### Resources:
+- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
+- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
+- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
+- Find [dbt events](https://events.getdbt.com) near you
+- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
