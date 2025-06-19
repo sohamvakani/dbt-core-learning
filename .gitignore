@@ -1,0 +1,17 @@
+#dbt stuff 
+target/
+dbt_packages/
+logs/
+# Python virtualenv
+dbt-env/
+__pycache__/
+*.pyc
+
+# Dotenv files
+.env
+
+# SQLite or DuckDB (if you use later)
+*.db
+
+# Logs
+*.log
